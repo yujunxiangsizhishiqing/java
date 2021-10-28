@@ -26,3 +26,9 @@ java
 https://kyblk6q2ch.feishu.cn/docs/doccnAu8sfeLE3twF7Hrun7Er1g#  ;飞书
 
 https://shimo.im/docs/rD68VrYrXrJC8rCD ；石墨
+
+- JavaSE归纳版
+
+https://kyblk6q2ch.feishu.cn/docs/doccnlCF7W5YowYS1CZcqdmngwh ；飞书
+
+https://shimo.im/docs/VRJCDC9PRPwrKvHc ； 石墨
