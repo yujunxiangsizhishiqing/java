@@ -1,0 +1,6 @@
+select ename,job from emp;
+
+/*给表添加注释*/
+comment on table emp is '雇员表';
+/*给列添加注释*/
+comment on column emp.ename is '雇员姓名';
