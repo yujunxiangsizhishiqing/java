@@ -1,8 +1,6 @@
-
+README.md
 java
-
 这里存放一些java学习的笔记。
-
 
 目录简介：
 
@@ -24,7 +22,7 @@ java
 
 笔记：
 - JavaSE
-
+- 
 https://kyblk6q2ch.feishu.cn/docs/doccnAu8sfeLE3twF7Hrun7Er1g#  ;飞书
 
 https://shimo.im/docs/rD68VrYrXrJC8rCD ；石墨
@@ -34,3 +32,9 @@ https://shimo.im/docs/rD68VrYrXrJC8rCD ；石墨
 https://kyblk6q2ch.feishu.cn/docs/doccnlCF7W5YowYS1CZcqdmngwh ；飞书
 
 https://shimo.im/docs/VRJCDC9PRPwrKvHc ； 石墨
+
+- Databse
+
+https://kyblk6q2ch.feishu.cn/docs/doccnW53lsGP5mcKxSXd30RkSVd# ；飞书
+
+https://shimo.im/docs/YjJRTHHtCKCJHJ83 ；石墨
